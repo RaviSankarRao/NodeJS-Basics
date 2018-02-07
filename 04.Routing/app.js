@@ -1,3 +1,8 @@
+/*
+    This is thr route file that contains all the route options to be resolved.
+    The main app page is server.js which the node has to serve
+*/
+
 const url = require('url');
 const fs = require('fs');
 
